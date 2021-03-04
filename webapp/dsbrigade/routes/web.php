@@ -18,9 +18,3 @@ use App\Http\Controllers\NoticiaController;
 Route::get('/', [NoticiaController::class, 'index']);
 Route::get('/list', [NoticiaController::class, 'list']);
 
-
-
-// Route::name('noticias.')->prefix('noticias')->group(function () {
-//     Route::get('/', 'NoticiaController@index')->name('index');  
-//     Route::get('/list', 'NoticiaController@list')->name('list');
-// });

@@ -12,7 +12,7 @@ npm install
 ```
 Esse comando irá instalar todos os pacotes do NodeJS necessários para o Webscrapping das informações.
 
-Ainda dentro da raiz do projeto, crie um arquivo chamado .env, seguindo o modelo abaixo:
+Ainda dentro da raiz do projeto, crie um arquivo chamado .env, seguindo o modelo abaixo(disponível também no arquivo .env.example na raiz do projeto):
 
 ```bash
 
